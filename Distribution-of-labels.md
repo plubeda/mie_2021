@@ -1,5 +1,5 @@
-| Specialty | Train | Test |
-| --- | --- | --- |
+| Specialty | Train | Dev | Test |
+| --- | --- | --- |  --- |
 | Anesthesiology  | 2121 | 522 | 0 |
 | Dermatology & Venerology  | 16756 | 4241 | 32 |
 | Family Medicine  | 30435 | 7702 | 0 |
