@@ -5,7 +5,7 @@
 | Family Medicine  | 30435 | 7702 | 0 |
 | Forensic Medicine  | 290 | 66 | 0 |
 | Gynecology & Obstetrics  | 12161 | 3056 | 10 |
-| Internal Medicine  | 118179 | 29733 | 168 |
+| Internal Medicine  | 29733 | 118179 | 168 |
 | Neurology  | 19090 | 4728 | 45 |
 | Nuclear medicine  | 1640 | 432 | 0 |
 | Ophthalmology  | 3771 | 925 | 8 |
