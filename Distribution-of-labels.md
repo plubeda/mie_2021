@@ -1,3 +1,5 @@
+The distribution of the labels of the original dataset used in the study is as follows:
+
 | Specialty | Train | Dev | Test |
 | --- | --- | --- |  --- |
 | Anesthesiology  | 2121 | 522 | 0 |
