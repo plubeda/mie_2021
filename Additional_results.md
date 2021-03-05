@@ -26,7 +26,7 @@ With respect to this dataset, the results obtained are as follows:
 | Language | System | Precision (%) | Recall (%) | F-score (\%) |
 | --- | --- | --- | --- | --- |
 | Spanish | BETO | 84.02 | 71.96 | 77.52 |
-| Spanish | mBERT | 8421 | 6532 | 7357 |
-| English | BioBERT | 7915 | 7236 | 7560 |
-| English | BERT | 8048 | 6078 | 6926 |
-| English | mBERT | 7730 | 4710 | 5854 |
+| Spanish | mBERT | 84.21 | 65.32 | 73.57 |
+| English | BioBERT | 79.15 | 72.36 | 75.60 |
+| English | BERT | 80.48 | 60.78 | 69.26 |
+| English | mBERT | 77.30 | 47.10 | 58.54 |
